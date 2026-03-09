@@ -63,7 +63,7 @@ const UTILIZADORES_OPTIONS = [
   'Somente eu',
   '1 a 2 usuários',
   '3 a 5 usuários',
-  '5+ usuários',
+  '+5 usuários',
 ]
 
 export default function FormPage() {
